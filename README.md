@@ -1,6 +1,6 @@
 ## 👨‍💻 Desenvolvedor Backend | Python • Django • SQL
 
-Me chamo **[Nicholas Silva]**, sou desenvolvedor backend em formação, apaixonado por tecnologia e resolução de problemas.  
+Me chamo **Nicholas Silva**, sou desenvolvedor backend em formação, apaixonado por tecnologia e resolução de problemas.  
 Tenho foco no desenvolvimento de aplicações robustas, APIs e integração com bancos de dados, sempre buscando boas práticas e evolução constante na área de TI.
 
 ---
@@ -79,7 +79,6 @@ Tenho foco no desenvolvimento de aplicações robustas, APIs e integração com 
 - 🌐 Criação de APIs com **Django**
 - 🗄️ Modelagem e consultas em **SQL**
 - 📚 Estudando constantemente boas práticas e projetos reais
-- 🚀 Objetivo: primeira oportunidade como **Dev Backend**
 
 ---
 
